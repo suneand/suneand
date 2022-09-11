@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @suneand
+- 👀 I’m interested in science, data, sport
+- 🌱 I’m currently learning HTML, javascript
+- 💞️ I’m looking to collaborate on small webapp
+- 📫 How to reach me 
